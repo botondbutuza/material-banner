@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         class Holder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 
             fun bind(item: String) {
-                itemView.text.text = item
+                itemView.text.text = "Recycler item $item"
             }
         }
     }
