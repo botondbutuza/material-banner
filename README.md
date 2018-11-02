@@ -1,8 +1,10 @@
 # Material Design Component Banner
 
-A banner displays an important, succinct message, and provides actions for users to address (or dismiss the banner). It requires a user action to be dismissed.
+The banner displays an important, succinct message, and provides actions for users to address, or dismiss the banner. It requires a user action to be dismissed.
 
-[Material Design Components documentation.](https://material.io/design/components/banners.html)
+[Full Material Design Components documentation.](https://material.io/design/components/banners.html)
+
+The Banner works with `CollapsibleToolbarLayout`, and sticks to the top of the screen when content is scrolled.
 
 ![Material Banner](https://i.imgur.com/jMd25GE.gif)
 
